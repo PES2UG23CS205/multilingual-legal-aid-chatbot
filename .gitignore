@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+.venv
+venv/
+env/
+
+# IDE and editor directories
+.vscode/
+.idea/
+.project
+.classpath
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Generated data and models
+# This is VERY important. Your vector store can be large and should be regenerated, not stored in git.
+vector_store/
+
+# Downloaded models or large data files
+# If you download other large models, add them here
+# example_model.bin
+
+# Frontend build artifacts (if you ever use React/Vue etc.)
+/node_modules
+/build
+/dist
+
+# Python virtual environment
+venv/
+*/venv/
+env/
+*/env/
+.env
+
+# Streamlit config
+.streamlit/

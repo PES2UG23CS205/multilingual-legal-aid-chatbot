@@ -1,0 +1,35 @@
+
+
+# Web and API
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# LangChain and AI
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-huggingface  # New package for embeddings
+langchain-ollama       # New package for Ollama LLM
+pypdf
+fitz # PyMuPDF
+pytesseract
+Pillow
+
+# Utilities
+streamlit
+streamlit-mic-recorder
+python-dotenv
+requests
+gTTS
+deep-translator
+pydub
+pandas
+tqdm
+PyMuPDF
+pytesseract
+
+# Data Handling
+pandas
