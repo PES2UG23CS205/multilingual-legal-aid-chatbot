@@ -205,10 +205,10 @@ Now, open your web browser and go to http://localhost:8501. You should see the c
 
 I'm passionate about using technology for social good and am always open to connecting with like-minded people. If you have any questions, feedback, or want to collaborate, please feel free to reach out!
 
-    Name: [Your Name]
+    Name: Gowtham B
 
-    Email: [your.email@example.com]
+    Email: gowthammourya9@gmail.com
 
-    LinkedIn: [https://linkedin.com/in/yourprofile]
+    LinkedIn: www.linkedin.com/in/gowtham-b-bb8960305
 
-    GitHub: [https://github.com/PES2UG23CS205]
+    GitHub: https://github.com/PES2UG23CS205
